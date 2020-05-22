@@ -1,0 +1,12 @@
+#set this commands for bot commands in bot father(https://t.me/BotFather)
+
+start - شروع
+add - اضافه کردن داده به ربات
+show - نمایش همه‌ی داده‌ها
+current_city - نمایش شهر فعلی
+add_to_black_list - افزودن کلمه به لیست سیاه
+change_city - تعویض شهر
+edit - ویرایش داده‌ها
+remove - حذف داده
+remove_all - حذف همه‌ی داده‌ها
+help - راهنمای ربات
