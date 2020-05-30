@@ -9,7 +9,7 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 URL = 'https://divar.ir'
 
 bot = Bot('TOKEN')
-users = [83668993]
+users = [USERS ID]
 sent_messages = []
 
 

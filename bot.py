@@ -6,7 +6,7 @@ from telegram.ext import (Updater, CommandHandler, Filters, MessageHandler, Conv
 title_to_be_remove = ""
 title_to_be_edit = ""
 
-users = [users id must be here ]
+users = [USERS ID]
 
 
 def check_data_validation(data):
