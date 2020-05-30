@@ -120,7 +120,7 @@ def main():
 
 
 scheduler = BlockingScheduler()
-scheduler.add_job(main, 'interval', minutes=5)
+scheduler.add_job(main, 'interval', minutes=10)
 scheduler.add_job(delete_previous_messages, 'interval', days=15)
 scheduler.start()
 
