@@ -6,4 +6,4 @@ current_city.txt can have just two city names, also you can switch between citie
 
 data.json have mobile phone model and price that tg bot search for them.
 
-previous_messages.txt save previous messages(actually ads link that bot sent to it users) in order to not send them to you again. 
+previous_messages.txt save previous messages(actually adds link that bot sent to it users) in order to not send them to you again. 
